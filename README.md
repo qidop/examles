@@ -1,2 +1,1 @@
-# examles
-# examles
+# examles for first steps in C
